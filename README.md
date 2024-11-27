@@ -1,7 +1,7 @@
 
 # Sorting Algorithms 
 
-**Sorting Algorithms**, is a collection of efficient and commonly used sorting algorithms implemented in the C programming language. This project is perfect for those studying algorithms or data structures.
+**Sorting Algorithms**, is a collection of efficient and commonly used sorting algorithms implemented in C. This project is perfect for those studying algorithms or data structures.
 
 ## 👾 Features
 
