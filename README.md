@@ -23,7 +23,7 @@ Follow these steps to explore and execute the sorting algorithms.
 Use the following command to compile a specific sorting algorithm:
 
 ```bash
-gcc  bubble.c  -o bubble
+gcc bubble.c -o bubble
 ```
 
 Replace `bubble.c` with the desired file name (e.g., `quickSort.c`).
