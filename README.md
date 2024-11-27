@@ -15,7 +15,7 @@ Follow these steps to explore and execute the sorting algorithms.
 
 ### 1. Prerequisites
 
-- A Linux-based operating system (tested on Linux Min).
+- A Linux-based operating system (tested on Linux Mint).
 - GCC (GNU Compiler Collection) installed on your system.
 
 ### 2. Compiling the Code
