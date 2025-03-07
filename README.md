@@ -3,13 +3,13 @@
 
 **Sorting Algorithms**, is a collection of efficient and commonly used sorting algorithms implemented in C. This project is perfect for those studying algorithms or data structures.
 
-## 👾 Features
+## Features
 
 - **Comprehensive Algorithm Support**: Implementations include classic sorting techniques such as Bubble Sort, Quick Sort, Merge Sort, and more.
 - **Performance Analysis**: Each algorithm includes its time complexity (Big-O notation) for better understanding and comparison.
 - **Educational Value**: Ideal for learning how different sorting algorithms work and their use cases.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to explore and execute the sorting algorithms.
 
@@ -36,7 +36,7 @@ Run the compiled program to see the sorting in action:
 ./bubble
 ```
 
-## 🔍 Algorithms Included
+## Algorithms Included
 
 Below is a list of sorting algorithms, with brief descriptions and their time complexities:
 
@@ -100,6 +100,6 @@ Below is a list of sorting algorithms, with brief descriptions and their time co
   - Average: Depends on gap sequence
   - Worst: O(n²)
 
-## 🛠️ How It Works
+## How It Works
 
 Each algorithm is implemented in its respective `.c` file. The programs take an unsorted array as input, apply the sorting technique, and display the sorted array.
